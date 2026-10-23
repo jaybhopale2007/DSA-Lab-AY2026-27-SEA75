@@ -4,7 +4,7 @@ int queue[MAX];
 int front = -1, rear = -1;
 void enqueue(int parcel)
 {
-    if ((rear + 1) % MAX == front)
+    if ((rear + 1) % MAX == front) 
     {
         printf("Queue is Full!\n");
         return; 
