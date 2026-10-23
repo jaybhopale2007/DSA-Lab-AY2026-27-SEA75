@@ -3,8 +3,8 @@
 #include <string.h>
 
 /*
-Name: Pranav Gajanan Daud
-Roll No.: SEA59
+Name: Jay Ramesh Bhopale
+Roll No.: SEA75
 Practical No. 8
 */
 
