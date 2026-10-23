@@ -5,7 +5,7 @@ typedef struct SLL
     char data[10];
     struct SLL *next;
 }
-SLL;
+SLL; 
 SLL *head, *p, *q, *nw;
 int ans, ch, pos, i;
 int main()
