@@ -4,7 +4,7 @@
 
 int graph[MAX][MAX];
 int visited[MAX];
-int n;
+int n; 
 
 /* BFS Traversal */
 void BFS(int start)
